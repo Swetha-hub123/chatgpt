@@ -1,4 +1,4 @@
-# 🤖 ChatGPT UI Clone - Mini Chatbot
+# Chatbot
 
 A front-end **ChatGPT-style chatbot UI** made with **HTML**, **CSS**, and **JavaScript**. This is a basic static project that mimics the look and feel of ChatGPT's chat interface.
 
